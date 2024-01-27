@@ -2,10 +2,10 @@
 
 # Project Structure
 1. There are 4 classes.
-   a)Main - Responsible for stating the game.
-   b)Dice - Represents a dice with attributes and functionality to generate a random number between 1 and 6
-   c)Player -Holds attributes and methods related to players in the game
-   d)Arena -Performs various game actions
+   a.)Main - Responsible for stating the game.
+   b.)Dice - Represents a dice with attributes and functionality to generate a random number between 1 and 6
+   c.)Player -Holds attributes and methods related to players in the game
+   d.)Arena -Performs various game actions
 
 2. There are 3 TestClasses covering  various unit tests for each classes.
 
