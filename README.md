@@ -1,6 +1,6 @@
-# govindyadav## Swiggy aSDE - Round 1 coding test
+## Swiggy aSDE - Round 1 coding test
 
-#Project Structure
+# Project Structure
 1. There are 4 classes.
    a)Main - Responsible for stating the game.
    b)Dice - Represents a dice with attributes and functionality to generate a random number between 1 and 6
