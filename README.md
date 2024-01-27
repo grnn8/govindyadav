@@ -10,9 +10,9 @@
 2. There are 3 TestClasses covering  various unit tests for each classes.
 
 # Prerequisites
-1.Install Visual Studio Code.
-2.Download the Java extension pack for Visual Studio Code.
-3.Install JUnit Jupiter extension in Visual Studio Code.
+1. Install Visual Studio Code.
+2. Download the Java extension pack for Visual Studio Code.
+3. Install JUnit Jupiter extension in Visual Studio Code.
 
 # Running the Game
 1.Open Visual Studio Code.
